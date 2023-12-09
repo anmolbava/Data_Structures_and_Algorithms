@@ -1,2 +1,6 @@
 print("my first oops program")
-print("added another statement")
+def printmystatements():
+    print("Hello printing my statement in a function 1")
+
+
+printmystatements()
